@@ -1,13 +1,12 @@
-<h1 align="center">Samuel Seny Ferreira Santos</h1>
+<h1 align="center">Samuel Seny</h1>
 <p align="center">
   <span style="background-color:#444; color:#fff; padding:4px 8px; border-radius:5px;">💻 Desenvolvedor</span>
-  <span style="background-color:#888; color:#fff; padding:4px 8px; border-radius:5px;">Back-End Java</span>
+  <span style="background-color:#888; color:#fff; padding:4px 8px; border-radius:5px;">FullStack</span>
 </p>
 
 <p align="justify">
-Sou estudante de <strong>Bacharelado em Ciência da Computação</strong> pela <em>Faculdade Católica da Paraíba</em>, em busca de oportunidades para aplicar e expandir meus conhecimentos na área de tecnologia.
-Durante o curso, venho desenvolvendo uma sólida base em <strong>programação, algoritmos, estruturas, lógica</strong> e sigo desenvolvendo projetos práticos com foco em aprendizado contínuo.<br><br>
-Embora ainda não tenha experiência profissional na área, estou ansioso para começar minha carreira e contribuir com soluções inovadoras. Minhas competências incluem <strong>resolução de problemas, trabalho em equipe</strong> e <strong>uma forte capacidade de aprendizado</strong>. Estou pronto para enfrentar novos desafios e colaborar em projetos que façam a diferença.
+Olá! Sou estudante de <strong>Bacharelado em Ciência da Computação</strong> pela <em>Faculdade Católica da Paraíba</em>, apaixonado por tecnologia e em constante busca por crescimento profissional. Durante a graduação, venho desenvolvendo uma base sólida em <strong>programação, lógica, algoritmos</strong> e <strong>estrutura de dados</strong>, sempre aplicando meus conhecimentos em projetos práticos que me desafiem e estimulem a aprender cada vez mais.<br><br>
+Apesar de ainda não ter atuado profissionalmente na área, estou preparado para contribuir com soluções criativas, aprender com agilidade e colaborar com equipes em projetos que gerem impacto positivo. Me destaco pela minha <strong>facilidade de aprendizado, raciocínio lógico</strong> e pela <strong>dedicação em buscar excelência</strong> em tudo o que faço.
 </p>
 
 ---
@@ -27,11 +26,10 @@ Embora ainda não tenha experiência profissional na área, estou ansioso para c
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas no GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuelseny&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelseny&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuelseny&show_icons=true&theme=tokyonight&locale=pt-br"/>
 </p>
 
 ---
