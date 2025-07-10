@@ -1,7 +1,7 @@
-<h1 align="center">Samuel Seny</h1>
+<h1 align="center">Samuel Seny Ferreira Santos</h1>
 <p align="center">
   <span style="background-color:#444; color:#fff; padding:4px 8px; border-radius:5px;">💻 Desenvolvedor</span>
-  <span style="background-color:#888; color:#fff; padding:4px 8px; border-radius:5px;">FullStack</span>
+  <span style="background-color:#888; color:#fff; padding:4px 8px; border-radius:5px;">Back-End Java</span>
 </p>
 
 <p align="justify">
